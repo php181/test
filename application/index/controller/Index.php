@@ -6,7 +6,7 @@ class Index
     public function index()
     {
 
-        return "20170920";
+        return "2222";
 
 
 
