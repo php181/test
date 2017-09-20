@@ -6,7 +6,7 @@ class Index
     public function index()
     {
 
-        return "2222";
+        return "4444";
 
 
 
